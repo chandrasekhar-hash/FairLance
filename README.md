@@ -38,11 +38,6 @@ Frontend: React
 Backend: Node.js + Express
 Database: Supabase with localStorage fallback
 
-AI:
-
-* Gemini for analysis and verification
-* Groq for chat monitoring
-* Claude for scoring
 
 ---
 
